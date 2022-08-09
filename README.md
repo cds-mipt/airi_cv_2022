@@ -7,7 +7,7 @@
 
 * AIRI Summer School - 2022 - 1 - Основные задачи компьютерного зрения, наборы данных и инструменты работы с ними ([лекция](https://docs.google.com/presentation/d/17j13MbL46rPQKk2MIEQ0PVL-1a-2Ieuc/edit?usp=sharing&ouid=118183283995851112163&rtpof=true&sd=true))
 
-* AIRI Summer School - 2022 - 2 - Программные инструменты для реализации нейросетевых моделей анализа ([лекция](https://drive.google.com/file/d/1XG32Jv31AjSPiri7SU5quaHOh865wpdX/view?usp=sharing), [семинар](https://github.com/cds-mipt/airi_cv_2022/tree/master/seminar_1))
+* AIRI Summer School - 2022 - 2 - Программные инструменты для реализации нейросетевых моделей анализа изображений. Технология Docker ([лекция](https://drive.google.com/file/d/1XG32Jv31AjSPiri7SU5quaHOh865wpdX/view?usp=sharing), [семинар](https://github.com/cds-mipt/airi_cv_2022/tree/master/seminar_1))
 
 * AIRI Summer School - 2022 - 3 - Методы обучения глубоких нейронных сетей для задач компьтерного зрения ([лекция](https://docs.google.com/presentation/d/1jJvHYtUiGRnoghxrVwLNu4sQbWNDsdOj/edit?usp=sharing&ouid=118183283995851112163&rtpof=true&sd=true), [семинар](https://github.com/cds-mipt/airi_cv_2022/tree/master/seminar_2))
 
